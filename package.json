@@ -1,0 +1,21 @@
+{
+  "name": "microbus",
+  "version": "1.0.0",
+  "description": "A super tiny, dependency-free event bus for JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "event",
+    "bus",
+    "pubsub",
+    "tiny",
+    "lightweight",
+    "javascript"
+  ],
+  "author": "Solaiman Naderi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/microbus"
+  }
+}
